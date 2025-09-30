@@ -1,3 +1,7 @@
 test 
+<<<<<<< HEAD
 I am doing exercise 3
 
+=======
+Im listening to Tylor Swift
+>>>>>>> 9498132ec519a2b8cb3075a6fe1db4d695a99240
